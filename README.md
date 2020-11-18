@@ -1,1 +1,1 @@
-# -postgres-awscli
+# postgres-awscli
